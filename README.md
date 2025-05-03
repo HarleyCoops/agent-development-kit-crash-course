@@ -6,6 +6,12 @@ This repository contains examples for learning Google's Agent Development Kit (A
 
 ### Setup Environment
 
+
+Google LM Link: https://notebooklm.google.com/notebook/113aaf35-e335-48a8-b8bc-c8f8cb5defd1?_gl=1*x0aeo1*_ga*MTk0ODUzOTQwMS4xNzQzNzA4NjU2*_ga_W0LDH41ZCB*czE3NDYyODQxODEkbzQkZzAkdDE3NDYyODQxODEkajYwJGwwJGgw 
+
+
+
+
 You only need to create one virtual environment for all examples in this course. Follow these steps to set it up:
 
 ```bash
